@@ -1,0 +1,14 @@
+{
+  "name": "beacon-prototype",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "noble": "^1.9.1",
+    "node-beacon-scanner": "^0.1.1",
+    "time-stamp": "^2.2.0"
+  }
+}
